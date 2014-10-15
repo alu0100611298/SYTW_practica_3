@@ -1,4 +1,4 @@
-### Sistemas y Tecnologías Web:
+# Sistemas y Tecnologías Web:
 ##Práctica: Usando OAuth con omniauth
 
 Configure su propia versión del ejemplo de uso de OmniAuth en https://github.com/crguezl/omniauth-google-oauth2-sample que hemos visto en clase de prácticas.
@@ -11,7 +11,9 @@ Suba los enlaces a la comunidad de Google+ cuando tenga terminada la práctica.
 Si lo desea puede usar un repositorio privado de Bitbucket para el alojamiento.
 
 [Repositorio](https://github.com/alu0100611298/SYTW_practica_3)
+
 [Heroku](http://whispering-river-8769.herokuapp.com/)
+
 [gh-pages](http://alu0100611298.github.io/SYTW_practica_3)
 
 
