@@ -45,6 +45,9 @@
 			              <p> <strong id="tit"> Nombre: </strong><%= @auth['info'].first_name %> </p>
 			              <p> <strong id="tit"> Apellidos: </strong><%=  @auth['info'].last_name %> </p>
 			              <p> <strong id="tit"> email: </strong><%= @auth['info'].email %> </p>
+			              <p> <strong id="tit"> Google+: </strong><%= @auth['info'].urls %> </p>
+			              <p>Todos los datos:</p>
+			              <p><%= @auth.inspect.to_yaml %></p>
 			            </div>
                     </div>
                 </div>
